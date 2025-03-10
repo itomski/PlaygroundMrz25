@@ -1,4 +1,4 @@
-package de.gfn.playgrund;
+package de.gfn.playground;
 
 public class FahrzeugTest {
 

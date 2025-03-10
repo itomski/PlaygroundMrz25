@@ -1,4 +1,4 @@
-package de.lubowiecki.playground.aufgaben;
+package de.gfn.playground.aufgaben;
 
 public class Aufgabe1 {
 

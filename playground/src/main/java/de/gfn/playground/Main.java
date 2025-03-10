@@ -1,5 +1,5 @@
 // Konvention für Packages: umgedrehte domain des unternehmens + Projektname 
-package de.gfn.playgrund;
+package de.gfn.playground;
 
 // Klasse
 public class Main {
