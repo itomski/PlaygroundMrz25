@@ -14,6 +14,7 @@ public class Aufgabe2 {
     Der Taschenrechner soll um ein Protokoll erweitert werden. Das Protokoll kann über eine Methode 
     ausgegeben werden. Für jede ausgeführte Operation zeigt es die Operanden, 
     den verwendeten Operator und das Ergebnis.
+    TODO: Besser erklären
     */
 
     /*
