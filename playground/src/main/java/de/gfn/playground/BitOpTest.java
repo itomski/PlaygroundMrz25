@@ -1,4 +1,4 @@
-package de;
+package de.gfn.playground;
 
 public class BitOpTest {
 
