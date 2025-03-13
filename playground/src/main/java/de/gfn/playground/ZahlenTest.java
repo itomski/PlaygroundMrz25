@@ -1,4 +1,4 @@
-package de.gfn;
+package de.gfn.playground;
 
 import java.util.Scanner;
 
