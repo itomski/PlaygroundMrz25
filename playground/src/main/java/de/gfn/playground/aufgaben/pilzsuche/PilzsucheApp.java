@@ -11,7 +11,7 @@ public class PilzsucheApp {
 
         System.out.println("Spielstart\n");
         
-        Pilzsuche pilzsuche = new Pilzsuche(10, 10, 10, 10);
+        Pilzsuche pilzsuche = new Pilzsuche(5, 5, 10, 20);
 
         while(!pilzsuche.gameOver()) {
             try {
