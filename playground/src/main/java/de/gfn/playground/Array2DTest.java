@@ -5,17 +5,7 @@ public class Array2DTest {
     public static void main(String[] args) {
         
         /*
-         X X X X X X X
-         X X X X X X X
-         X X X X X X X
-         X X X X X X X
-         X X X X X X X
-         X X X X X X X
-         X X X X X X X
-         */
-
          char[] zeile1 = {'X', 'X', 'X', 'X', 'X', 'X', 'X'};
-
          char[][] spielfeld = {
             {'X', 'X', 'X', 'X', 'X', 'X', 'X'},
             {'X', 'X', 'X', 'X', 'X', 'X', 'X'},
@@ -34,10 +24,11 @@ public class Array2DTest {
             }
             System.out.println();
          }
+         */
 
          System.out.println();
 
-         int[][] spielfeld2 = new int[5][5]; // Array mit 5 Zeile und 5 Feldern pro Zeile (leer)
+         int[][] spielfeld2 = new int[10][10]; // Array mit 5 Zeile und 5 Feldern pro Zeile (leer)
 
          for(int[] zeile : spielfeld2) { // Bewegung Zeile für Zeile
             for(int feld : zeile) { // Bewegung Feld für Feld

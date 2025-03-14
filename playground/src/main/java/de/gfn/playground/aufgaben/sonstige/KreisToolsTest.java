@@ -1,4 +1,4 @@
-package de.gfn.playground.aufgaben;
+package de.gfn.playground.aufgaben.sonstige;
 
 import java.util.Scanner;
 
